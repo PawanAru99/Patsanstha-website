@@ -1,0 +1,39 @@
+.carouselcaption4 {
+    color: black;
+    opacity: 100%;
+    text-shadow: none;
+    background-color: bisque;
+    /* display: flex; */
+    /* text-align: center;
+    justify-content: space-between; */
+
+}
+
+/* .carousel-caption1{
+    background-color: beige;
+} */
+.carousel-inner {
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.caption {
+    background-color: black;
+    color: aliceblue;
+    display: block;
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+    margin: 0;
+}
+
+.form-group {
+    width: 200px;
+}
+
+/* .patsanthapdf {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: auto;
+} */
